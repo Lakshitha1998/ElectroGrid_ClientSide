@@ -26,7 +26,7 @@ a<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 <script src="js/jquery.min.js" type="text/javascript"></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GadgetBadget </title>
+<title>ElectroGrid</title>
 </head>
 <body>
 <div class="container">
@@ -36,6 +36,8 @@ a<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 
 
 <a href="Feedback.jsp"><img src="img/feedbacks.png" class="rounded float-left m-5" alt="feedbacks" width="40%"></a>
+
+
 
 </div>
 
