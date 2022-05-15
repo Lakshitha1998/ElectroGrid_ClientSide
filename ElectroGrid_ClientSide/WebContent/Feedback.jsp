@@ -59,14 +59,13 @@
 					 Comment:  
 					 <input id="Comment" name="Comment" type="text" class="form-control form-control-sm">  
 					 
-					
-					 
 					 
 					 <br>  
 					 <input id="btnSave" name="btnSave" type="button" value="Save" class="btn btn-primary">  
 					 <input type="hidden" id="hidFeedbackIDSave" name="hidFeedbackIDSave" value=""> 
 					 
 				</form> 
+				
 				
 				  </div>
                 </div>
